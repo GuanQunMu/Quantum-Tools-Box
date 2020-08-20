@@ -1,3 +1,4 @@
+# Dynamic Decouping of a Single Qubit
 
 ## DDC_Pulse tagging
 
@@ -51,7 +52,7 @@ ANS+=(-1)*(1-(List[n]**ci))
 print(ANS)
 ```
 
-# Spin-Echo efficiency simulation
+## Spin-Echo efficiency simulation
 
 ```python
 from qutip import *
