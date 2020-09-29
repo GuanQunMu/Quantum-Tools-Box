@@ -5,6 +5,6 @@ Updated on 2020/8/20
 
 It cantains:
 
-1. Spin-Echo Simulation
+1. Spin-Echo Technology Simulation
 
-2. To be continued
+2. Quantum Lock-in Amplifier Simulation
