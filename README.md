@@ -8,3 +8,5 @@ It cantains:
 1. Spin-Echo Technology Simulation
 
 2. Quantum Lock-in Amplifier Simulation
+
+3. Superconducting Circuits Pulses Optimization 
